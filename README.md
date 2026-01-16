@@ -17,5 +17,5 @@ text = "水印文字"  # 水印文字
 # 安装依赖
 pip install pillow==12.1.0
 # 直接运行
-python app.py
+python main.py
 ```
